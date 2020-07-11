@@ -1,5 +1,7 @@
-##HTTP(Hyper Text Transfer Protocol)<br>
-###HTTP는 Client가 Request를 하면 Server가 Response하는 단순한 구조를 가진 프로토콜이다.<br>
+HTTP(Hyper Text Transfer Protocol)<br>
+======
+HTTP는 Client가 Request를 하면 Server가 Response하는 단순한 구조를 가진 프로토콜이다.<br>
+------
 ####Protocol: '통신규약'으로, 원거리 통신 장비사이에서 주고받는 양식과 규칙의 체계이다.<br> 
 Http Request는 Client -> Server로 특정행동을 요청하는 행위이다.<br>
 
